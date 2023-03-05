@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+/* リセットcss */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  padding: 20px;
+}
+
+ /* トップページ */
+.top-text{
+  line-height: 50px;
+  margin-left: 30px;
+}
+ /* ここまで */
+
+ /* index */
+td{
+  padding: 0 20px;
+}
+
+  /* ここまで */
